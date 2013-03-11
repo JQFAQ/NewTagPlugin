@@ -37,7 +37,7 @@
         },
         _append: function () {
             var item = this.children;
-            $(item).append('<img src="http://www1.ccny.cuny.edu/facultystaff/hr/images/star_1.jpg" style="margin-left:3px; height:20px; width:20px;"/>');
+            $(item).append('<img src="http://www1.ccny.cuny.edu/facultystaff/hr/images/star_1.jpg" style="margin-left:3px; height:15px; width:15px;"/>');
 
             var self = this;
             $(item).tooltip({
